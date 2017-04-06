@@ -6,3 +6,9 @@ And a long time ago, I can't distinguish Pixhawk and PX4. And after read [px4_au
 
 # Announce
 the paper are get from the internet, if hurt your copyright, please tell me, 849302437@qq.com
+
+# Term
+* PX4FMU: flight control unit.
+* PX4IO: flight input and output unit.
+* Pixhawk: PX4FMU+PX4IO
+
